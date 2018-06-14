@@ -1,25 +1,20 @@
 {
-  "name": "modele",
+  "name": "TrayExample",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "Tray Example",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/electron/modele",
+  "repository": "https://github.com/ftillouhamid/hello-world",
   "keywords": [
     "Electron",
-    "quick",
-    "start",
-    "tutorial",
-    "demo"
+    "try",
+    "unimatel"
   ],
-  "author": "GitHub",
-  "license": "CC0-1.0",
-  "devDependencies": {
-    "electron": "^2.0.0",
-    "electron-packager": "^12.1.0"
-  },
+  "author": "Hamid Ftillou",
+  "license": "MIT",
+  
   "dependencies": {
     "electron-reload": "^1.2.2",
     "electron-window-manager": "^1.0.6"
